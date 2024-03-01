@@ -10,7 +10,7 @@ Foram gastos R$ 900,00 para o transporte dos alunos, devido ao ônibus não esta
 
 Foram arrecadados R$ 1.430,OO.
 
-Resultando assim em caixa o montante de: R$ 5.230,00 - R$ 900,00 + R$ 1.4300,00 = R$ 5.760.
+Resultando assim em caixa o montante de: R$ 5.230,00 - R$ 900,00 + R$ 1.430,00 = R$ 5.760.
 
 Com um lucro de R$ 530.
 
