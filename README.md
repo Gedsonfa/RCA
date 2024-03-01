@@ -33,6 +33,12 @@ https://github.com/Gedsonfa/RCA/tree/main/2024.1/Comprovantes/FEVEREIRO
 Segue a lista de pagantes:
 https://github.com/Gedsonfa/RCA/blob/main/2024.1/Pagantes/FEVEREIRO/PAGANTES.pdf
 
+Regras:
+https://github.com/Gedsonfa/RCA/blob/main/Regras/regras.MD
+
+Atas:
+https://github.com/Gedsonfa/RCA/blob/main/Regras
+
 Qualquer dúvida, estarei à disposição. 
 
 Agradeço pela atenção!✨
