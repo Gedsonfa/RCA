@@ -8,7 +8,7 @@ Primeiramente, gostaria de informar a vocês que o valor em caixa comigo era de:
 
 Foram gastos R$ 2.550,00 para o transporte dos alunos, devido a lotações.
 
-Foram arrecadados R$ 2.425,OO (Aluno R$ 200 em Especie) + R$ 1.557,50(Especie da antiga gestão) = R$ 3.982,50.
+Foram arrecadados R$ 2.425,00 + R$ 1.557,50(Especie da antiga gestão) = R$ 3.982,50.
 
 Resultando assim em caixa o montante de: R$ 3.980,00 - R$ 2.550,00 + R$ 1.430,00 = R$ 5.412,50.
 
