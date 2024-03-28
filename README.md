@@ -2,36 +2,29 @@
 Repositorio destinado para exibição da administração monetária da associação
 
 # 
-🚨 PRESTAÇÃO DE CONTAS - FEVEREIRO (2024) 🚨 
+🚨 PRESTAÇÃO DE CONTAS - MARÇO (2024) 🚨 
 
-Primeiramente, gostaria de informar a vocês que o valor em caixa era de: R$ 5.230,00.
+Primeiramente, gostaria de informar a vocês que o valor em caixa comigo era de: R$ 3.980,00.
 
-Foram gastos R$ 900,00 para o transporte dos alunos, devido ao ônibus não estar em circulação nesse início de mês e lotações.
+Foram gastos R$ 2.550,00 para o transporte dos alunos, devido a lotações.
 
-Foram arrecadados R$ 1.430,OO.
+Foram arrecadados R$ 2.425,OO (Aluno R$ 200 em Especie) + R$ 1.557,50(Especie da antiga gestão) = R$ 3.982,50.
 
-Resultando assim em caixa o montante de: R$ 5.230,00 - R$ 900,00 + R$ 1.430,00 = R$ 5.760.
-
-Com um lucro de R$ 530.
-
-Tenho comigo R$ 3.780,00(Pix) + R$ 200(Especie) = R$ 3.980,00.
+Resultando assim em caixa o montante de: R$ 3.980,00 - R$ 2.550,00 + R$ 1.430,00 = R$ 5.412,50.
 
 Imagem do saldo da conta Pix:
-https://github.com/Gedsonfa/RCA/blob/main/2024.1/Fluxo%20de%20caixa/FEVEREIRO/ValorPix+200Especiel.jpeg
+https://github.com/Gedsonfa/RCA/blob/main/2024.1/Fluxo%20de%20caixa/MARCO/ValorPix.jpeg
 
 Seguem os registros de entrada e saída:
-https://github.com/Gedsonfa/RCA/blob/main/2024.1/Fluxo%20de%20caixa/FEVEREIRO/FLUXO%20DO%20CAIXA.pdf
+https://github.com/Gedsonfa/RCA/blob/main/2024.1/Fluxo%20de%20caixa/MARCO/FLUXO%20DO%20CAIXA.pdf
 
 Seguem os comprovantes das transações:
 
-• janeiro:
-https://github.com/Gedsonfa/RCA/tree/main/2024.1/Comprovantes/JANEIRO
-
-• fevereiro:
-https://github.com/Gedsonfa/RCA/tree/main/2024.1/Comprovantes/FEVEREIRO
+• março:
+https://github.com/Gedsonfa/RCA/tree/main/2024.1/Comprovantes/MARCO
 
 Segue a lista de pagantes:
-https://github.com/Gedsonfa/RCA/blob/main/2024.1/Pagantes/FEVEREIRO/PAGANTES.pdf
+https://github.com/Gedsonfa/RCA/blob/main/2024.1/Pagantes/MARCO/PAGANTES.pdf
 
 Regras:
 https://github.com/Gedsonfa/RCA/blob/main/Regras/regras.MD
